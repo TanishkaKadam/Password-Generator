@@ -52,10 +52,10 @@ The algorithm ensures that the generated passwords are both secure and easy to r
 
 
 ### Example :
-Input
+  Input
     ![Screenshot 2025-01-28 194411](https://github.com/user-attachments/assets/79013038-2f97-440a-81c6-13be1f2fae58)
 
-Output 
+  Output 
     ![Screenshot 2025-01-28 194422](https://github.com/user-attachments/assets/413a8d0b-fc23-48a9-bd44-ecb688f88ab3)
 
 
@@ -100,9 +100,10 @@ This project is based on the research conducted by Olivier Tremblay-Savard, Noma
 
 ## References
 
-1. Tremblay-Savard, O., Mohammed, N., Glory, F. Z., & Aftab, A. U. (2019). Strong Password Generation Based on User Inputs. IEEE.   Link : [10.1109@IEMCON.2019.8936178.pdf](https://github.com/user-attachments/files/18574842/10.1109%40IEMCON.2019.8936178.pdf)
-2. The Password Meter: https://passwordmeter.com
-3. Kaspersky Password Checker: https://password.kaspersky.com
+1. Tremblay-Savard, O., Mohammed, N., Glory, F. Z., & Aftab, A. U. (2019). Strong Password Generation Based on User Inputs. IEEE.
+   Link: [10.1109@IEMCON.2019.8936178.pdf](https://github.com/user-attachments/files/18574842/10.1109%40IEMCON.2019.8936178.pdf)
+3. The Password Meter: https://passwordmeter.com
+4. Kaspersky Password Checker: https://password.kaspersky.com
 
   
 
